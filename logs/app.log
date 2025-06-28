@@ -1,2 +1,76 @@
 2025-06-28 02:14:03,490 - root - INFO - Addition performed: 2.0 + 2.0 = 4.0
 2025-06-28 02:46:10,490 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 02:50:10,100 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 02:50:10,111 - root - INFO - Subtraction: 5.0 - 2.0 = 3.0
+2025-06-28 02:52:37,291 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 02:52:37,302 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 02:52:37,304 - root - WARNING - Attempted division by zero
+2025-06-28 02:52:37,360 - root - INFO - User viewed full history table.
+2025-06-28 02:52:37,363 - root - INFO - User viewed empty history.
+2025-06-28 02:52:37,369 - root - INFO - Multiplication: 3.0 * 4.0 = 12.0
+2025-06-28 02:52:37,372 - root - INFO - Subtraction: 5.0 - 2.0 = 3.0
+2025-06-28 02:56:03,656 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 02:56:03,668 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 02:56:03,670 - root - WARNING - Attempted division by zero
+2025-06-28 02:56:03,685 - root - INFO - User viewed full history table.
+2025-06-28 02:56:03,714 - root - INFO - User viewed empty history.
+2025-06-28 02:56:03,730 - root - INFO - Multiplication: 3.0 * 4.0 = 12.0
+2025-06-28 02:56:03,733 - root - INFO - Subtraction: 5.0 - 2.0 = 3.0
+2025-06-28 02:58:17,179 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 02:58:17,190 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 02:58:17,191 - root - WARNING - Attempted division by zero
+2025-06-28 02:58:17,203 - root - INFO - User viewed full history table.
+2025-06-28 02:58:17,206 - root - INFO - User viewed empty history.
+2025-06-28 02:58:17,212 - root - INFO - Multiplication: 4.0 * 5.0 = 20.0
+2025-06-28 02:58:17,215 - root - INFO - Subtraction: 5.0 - 2.0 = 3.0
+2025-06-28 02:59:44,778 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 02:59:44,790 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 02:59:44,791 - root - WARNING - Attempted division by zero
+2025-06-28 02:59:44,804 - root - INFO - User viewed full history table.
+2025-06-28 02:59:44,807 - root - INFO - User viewed empty history.
+2025-06-28 02:59:44,816 - root - INFO - Multiplication: 4.0 * 5.0 = 20.0
+2025-06-28 02:59:44,819 - root - INFO - Subtraction: 5.0 - 2.0 = 3.0
+2025-06-28 03:02:22,683 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 03:02:22,695 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 03:02:22,697 - root - WARNING - Attempted division by zero
+2025-06-28 03:02:22,709 - root - INFO - User viewed full history table.
+2025-06-28 03:02:22,711 - root - INFO - User viewed empty history.
+2025-06-28 03:02:22,715 - root - INFO - Multiplication: 4.0 * 5.0 = 20.0
+2025-06-28 03:02:22,718 - root - INFO - Subtraction: 5.0 - 2.0 = 3.0
+2025-06-28 03:05:05,340 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 03:05:05,352 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 03:05:05,354 - root - WARNING - Attempted division by zero
+2025-06-28 03:05:05,367 - root - INFO - User viewed full history table.
+2025-06-28 03:05:05,370 - root - INFO - User viewed empty history.
+2025-06-28 03:05:05,373 - root - INFO - Multiplication: 4.0 * 5.0 = 20.0
+2025-06-28 03:05:05,375 - root - INFO - Subtraction: 5.0 - 2.0 = 3.0
+2025-06-28 03:07:48,188 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 03:07:48,258 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 03:07:48,260 - root - WARNING - Attempted division by zero
+2025-06-28 03:07:48,277 - root - INFO - User viewed full history table.
+2025-06-28 03:07:48,279 - root - INFO - User viewed empty history.
+2025-06-28 03:07:48,284 - root - INFO - Multiplication: 4.0 * 5.0 = 20.0
+2025-06-28 03:07:48,288 - root - INFO - Subtraction: 10.0 - 6.0 = 4.0
+2025-06-28 03:09:43,467 - root - INFO - Addition performed: 2.0 + 3.0 = 5.0
+2025-06-28 03:09:43,479 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 03:09:43,480 - root - WARNING - Attempted division by zero
+2025-06-28 03:09:43,494 - root - INFO - User viewed full history table.
+2025-06-28 03:09:43,498 - root - INFO - User viewed empty history.
+2025-06-28 03:09:43,506 - root - INFO - Multiplication: 4.0 * 5.0 = 20.0
+2025-06-28 03:09:43,510 - root - INFO - Subtraction: 10.0 - 6.0 = 4.0
+2025-06-28 03:13:17,198 - root - ERROR - Invalid input in AddCommand
+2025-06-28 03:13:17,212 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 03:13:17,214 - root - WARNING - Attempted division by zero
+2025-06-28 03:13:17,225 - root - INFO - User viewed full history table.
+2025-06-28 03:13:17,228 - root - INFO - User viewed empty history.
+2025-06-28 03:13:17,231 - root - INFO - Multiplication: 4.0 * 5.0 = 20.0
+2025-06-28 03:15:31,257 - root - INFO - Addition performed: 5.0 + 3.0 = 8.0
+2025-06-28 03:15:31,259 - root - ERROR - Invalid input in AddCommand
+2025-06-28 03:15:31,270 - root - INFO - Division: 10.0 / 2.0 = 5.0
+2025-06-28 03:15:31,272 - root - WARNING - Attempted division by zero
+2025-06-28 03:15:31,284 - root - INFO - User viewed full history table.
+2025-06-28 03:15:31,286 - root - INFO - User viewed empty history.
+2025-06-28 03:15:31,290 - root - INFO - Multiplication: 4.0 * 5.0 = 20.0
+2025-06-28 03:15:31,292 - root - ERROR - Invalid input in MultiplyCommand
+2025-06-28 03:15:31,294 - root - INFO - Subtraction: 10.0 - 4.0 = 6.0
+2025-06-28 03:15:31,296 - root - ERROR - Invalid input in SubtractCommand

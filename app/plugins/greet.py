@@ -2,4 +2,5 @@ from app.commands import Command
 
 class GreetCommand(Command):
     def execute(self):
-        print("Hello, World!")
+        print("Welcome to the Advanced Python Calculator!")
+
