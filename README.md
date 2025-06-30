@@ -1,3 +1,6 @@
+# Demo Video
+Watch the full 7-8 minute walkthrough of this advanced Python calculator project: https://www.youtube.com/watch?v=raHPuWzf1qI 
+
 # IS218 Midterm Project – Advanced Python Calculator
 
 This project is a command-line calculator built for the IS218 midterm. It follows good software engineering practices like modularity, design patterns, unit testing, and GitHub Actions for automation.
@@ -32,7 +35,6 @@ The calculator uses a plugin system where each math operation is built as a sepa
 ## How to Set It Up
 
 1. **Clone the repo**
-   ```bash
    git clone https://github.com/Shahzebkhan123/is218-midterm-calculator.git
    cd is218-midterm-calculator
 
