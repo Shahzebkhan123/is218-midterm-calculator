@@ -73,4 +73,38 @@ Author
 
 Shahzeb Khan – IS218 Midterm, Summer 2025 
 
-Working on Homework 6 : 
+
+Homework 6: Pre-Production Work: 
+
+Loggin: 
+
+-Configured to use
+
+-Output set to
+
+-Use to limit the log size
+
+
+Environment Variables:
+
+-Environment variables loaded from
+
+-loaded via
+
+-Example:
+
+-is being loaded in
+
+
+-GitHub Actions (DevOps)
+
+-Continuous Integration set up via
+
+-Runs and on every push to
+
+-Testing
+
+
+-97%-100% test coverage with and
+
+-Includes tests for app start, loading environment variables, and executing the plugin commands
