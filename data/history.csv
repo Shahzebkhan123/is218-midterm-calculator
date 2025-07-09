@@ -1,3 +1,4 @@
 Operation,Operand 1,Operand 2,Result
 multiply,4.0,5.0,20.0
 subtract,10.0,4.0,6.0
+add,2.0,2.0,4.0
